@@ -45,7 +45,7 @@ const char* ntpServer = "pool.ntp.org";
 const long  gmtOffset_sec = 25200; // เวลาประเทศไทยคือ GMT+7
 const int   daylightOffset_sec = 0;
 
-//ip ของ computer 
+//ip ของ api 
 const char* serverUrl = "...";
 const char* roomID = "...";
 
